@@ -51,7 +51,7 @@ export default {
 header {
   width: 100vw;
   height: 85px;
-  background-color: goldenrod;
+  background-color: green;
 }
 .red{
   background-color: steelblue;

@@ -20,6 +20,7 @@
       <div>checkboxList的值:{{checkboxList}}</div>
 
       <h1>我是一台什么会啊 </h1>
+      <span>不知道什么啊</span> 
   </div>
 </template>
 

@@ -18,6 +18,8 @@
       </form>
       <div>{{text}}</div>
       <div>checkboxList的值:{{checkboxList}}</div>
+
+      <h1>我是一台什么会啊 </h1>
   </div>
 </template>
 
